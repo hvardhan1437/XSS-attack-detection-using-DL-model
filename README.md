@@ -114,11 +114,11 @@ The current system was trained on a dataset of approximately 13,686 labeled samp
 ## ✨ Team Members
 
 
-    Alajangi Venkata Satya 
-    K N Lakshmi
-    K Hemavardhan Reddy
-    K V Vamshidhar Reddy
-    DR. Pradeep Menon
+    Alajangi Venkata Satya .
+    K N Lakshmi .
+    K Hemavardhan Reddy .
+    K V Vamshidhar Reddy .
+    DR. Pradeep Menon .
   
 
 
